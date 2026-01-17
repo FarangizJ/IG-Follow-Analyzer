@@ -1,5 +1,7 @@
 # 📊 Instagram Follow Analyzer (React)
 
+👉 **Live App:** https://claude.ai/public/artifacts/fbac1509-364c-4620-a713-6d37be835fc7
+
 A fun, client-side React application that helps you understand your Instagram connections:
 - Who doesn’t follow you back
 - Who you don’t follow back
@@ -123,4 +125,105 @@ Then tap **Start export**.
 ## 📂 Finding the Right Files
 
 After extracting the ZIP file, navigate to:
+followers_and_following/
+
+Inside this folder, you will find:
+
+followers_1.json
+following.json
+
+
+These are the **only two files** required by the app.
+
+Do not rename or edit them.
+
+---
+
+## 🖥 Using the App
+
+1. Open the app in your browser
+2. Upload:
+   - `followers_1.json` using **Upload Followers**
+   - `following.json` using **Upload Following**
+3. The analysis runs automatically
+4. Explore the results using the tabs:
+   - **Not Following Back**
+   - **You Don’t Follow Back**
+5. Click a username to open their Instagram profile
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- JavaScript (ES6+)
+- FileReader API
+- Client-side only (no backend)
+
+---
+
+## 🚫 What This App Does NOT Do
+
+- ❌ Does not log into Instagram
+- ❌ Does not use Instagram or Meta APIs
+- ❌ Does not store user data
+- ❌ Does not track users
+- ❌ Does not upload files to any server
+
+---
+
+## 📁 Project Structure
+
+```
+instagram-follow-analyzer/
+├── InstagramAnalyzer.jsx
+├── README.md
+└── .gitignore
+```
+
+
+Never upload your personal Instagram data to GitHub.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational and entertainment purposes only**.
+
+- Not affiliated with Instagram or Meta
+- Uses only data you explicitly download and provide
+- Use responsibly and respectfully
+
+---
+
+## ✨ Why This Project Exists
+
+Because sometimes analytics should be:
+- Simple
+- Visual
+- Private
+- A little ironic
+- And actually fun 😌
+
+Built for curiosity, not judgment.
+
+---
+
+## 🌱 Possible Extensions
+
+- Export results to CSV
+- Add search and filters
+- Add dark mode
+- Deploy to GitHub Pages
+- Convert to a Python CLI version
+
+---
+
+## ⭐ Final Note
+
+If this project made you curious, amused, or slightly uncomfortable —
+then it worked exactly as intended.
+
+Happy analyzing 💫
+
 
