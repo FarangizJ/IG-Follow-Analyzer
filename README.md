@@ -209,16 +209,6 @@ Built for curiosity, not judgment.
 
 ---
 
-## 🌱 Possible Extensions
-
-- Export results to CSV
-- Add search and filters
-- Add dark mode
-- Deploy to GitHub Pages
-- Convert to a Python CLI version
-
----
-
 ## ⭐ Final Note
 
 If this project made you curious, amused, or slightly uncomfortable —
